@@ -2,6 +2,8 @@ body {
     font-family: 'Helvetica Neue', sans-serif;
     background-color: #f3f3f3;
     position: relative;
+    min-height: 100vh;
+
 }
 
 a.navbar-brand {
