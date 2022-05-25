@@ -1,0 +1,40 @@
+body {
+    font-family: 'Helvetica Neue', sans-serif;
+    background-color: #f3f3f3;
+    position: relative;
+}
+
+a.navbar-brand {
+    width: 100px;
+}
+
+.navbar-nav {
+    width: fit-content;
+}
+
+.nav-item {
+    font-size: 12px;
+}
+
+.navbar-toggler:active {
+    box-shadow: 0;
+}
+
+.nav-item .nav-link.active,
+.nav-item .nav-link:hover {
+    background-color: #e7e7e7;
+}
+
+form input {
+    width: 100px;
+}
+
+.btn-calc {
+    background-color: #337ab7;
+}
+
+footer {
+    background-color: #05cebf;
+    position: absolute;
+    bottom: 0;
+}
