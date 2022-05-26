@@ -9,7 +9,7 @@ btnCalc.addEventListener(`click`, function () {
   });
   if (totalUni == 100) {
     totalUni = 0;
-    for (let i = 0; i < 3; i++) {
+    for (let i = 0; i < 2; i++) {
       totalUni +=
         (+document.querySelectorAll(`.uni input`)[i].value / 100) *
         +document.querySelectorAll(`.degree input`)[i].value;
