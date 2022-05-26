@@ -1,6 +1,5 @@
 let btnCalc = document.querySelector(`.btnCalc`);
 let result = document.querySelector(`p.result`);
-document.querySelector(`.btn-date`).style.display = `none`;
 
 btnCalc.addEventListener(`click`, function () {
   let totalUni = 0;

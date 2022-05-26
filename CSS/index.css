@@ -32,11 +32,15 @@ form input {
 .btn-calc {
     background-color: #337ab7;
 }
+
 .following a{
     font-size: 12px;
 }
 .following a img{
     width: 80px;
+}
+.btn-date{
+    display: none;
 }
 footer {
     background-color: #97C4B8;
